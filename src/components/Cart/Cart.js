@@ -23,7 +23,7 @@ const Cart = (props) => {
   };
 
   const cartItemsHandler = () => {
-    console.log("Oder Succeed");
+    console.log("Oder");
   };
 
   const cartItems = (
